@@ -1,6 +1,3 @@
-
-
-You have a captain's log due before 2023-01-08 (in 2 days)! Log it now!
 0x02. AirBnB clone - MySQL
 Group projectPythonOOPBack-endSQLMySQLORMSQLAlchemy
 
@@ -873,4 +870,3 @@ Repo:
     File: models/amenity.py, models/place.py
 
 Copyright © 2023 ALX, All rights reserved.
-
